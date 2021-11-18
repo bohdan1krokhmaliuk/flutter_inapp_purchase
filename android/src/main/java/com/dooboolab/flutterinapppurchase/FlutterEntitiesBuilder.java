@@ -35,7 +35,6 @@ class FlutterEntitiesBuilder {
             map.put("obfuscatedProfileId", identifiers.getObfuscatedProfileId());
         }
 
-
         return map;
     }
 
